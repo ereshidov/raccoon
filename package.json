@@ -1,0 +1,7 @@
+{
+  "name": "raccoon",
+  "version": "0.0.1",
+  "description": "Telegram bot to access gpt4o",
+  "main": "index.js",
+  "license": "MIT"
+}
